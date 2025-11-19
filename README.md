@@ -3,7 +3,7 @@ Official code repository for the book "The Nonlinear Dance: Algorithmic Trading 
 
 
 
-![Book Cover] <img width="411" height="613" alt="Picture2" src="https://github.com/user-attachments/assets/96794e05-aa82-4e33-a3bd-4729f9219c31" />
+![Book Cover]<img width="411" height="613" alt="Picture2" src="https://github.com/user-attachments/assets/96794e05-aa82-4e33-a3bd-4729f9219c31" />
 
 
 This is the official code repository for the book **"The Nonlinear Dance: Algorithmic Trading with Chaos Theory and Python"** by Aizhong Lei.
