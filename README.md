@@ -31,8 +31,8 @@ To run the code in this repository, you'll need Python 3.8 or higher.
 ```bash
 git clone https://github.com/YourUsername/The-Nonlinear-Dance.git
 cd The-Nonlinear-Dance
-
-**2. Create a virtual environment (recommended):**
+```
+**2. Create a virtual environment:**
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
