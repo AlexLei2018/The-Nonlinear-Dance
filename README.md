@@ -31,3 +31,33 @@ To run the code in this repository, you'll need Python 3.8 or higher.
 ```bash
 git clone https://github.com/YourUsername/The-Nonlinear-Dance.git
 cd The-Nonlinear-Dance
+
+**2. Create a virtual environment (recommended):**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+
+**3. Install the required libraries:**
+```bash
+pip install -r requirements.txt
+```
+
+You are now ready to run the code from each chapter!
+
+---
+
+### About the Book
+
+*The Nonlinear Dance* is a practical guide to building intelligent, adaptive trading systems by mastering the hidden language of the markets: nonlinear dynamics. Moving beyond outdated theories and opaque AI, this book teaches you to use Chaos Theory, fractals, and Python to see what other traders miss.
+
+### Feedback and Issues
+
+If you find any issues with the code or have suggestions for improvement, please feel free to open an issue in this repository.
+
+---
+
+### License
+
+The code in this repository is released under the MIT License. See the `LICENSE` file for more details.
+```
